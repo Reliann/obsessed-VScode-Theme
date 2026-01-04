@@ -1,14 +1,18 @@
 {
   "name": "obsessed",
   "displayName": "Obsessed",
+  "publisher": "Reliann",
+  "icon": "images/icon.png",
   "description": "Color theme for people who are obsessed with the color",
   "version": "0.0.1",
+  "repository": "https://github.com/Reliann/obsessed-VScode-Theme",
   "engines": {
     "vscode": "^1.96.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": ["Blue","Green","Cyan","Blue Theme","Green Theme"],
   "contributes": {
     "themes": [
       {
