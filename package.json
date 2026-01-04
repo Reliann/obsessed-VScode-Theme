@@ -1,7 +1,9 @@
 {
   "name": "obsessed",
   "displayName": "Obsessed",
+  "publisher": "Reliann",
   "description": "Color theme for people who are obsessed with the color",
+  "icon": "images/icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
